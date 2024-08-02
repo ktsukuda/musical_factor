@@ -2,7 +2,7 @@
 
 This repository provides our survey questionnaire and survey results from the paper **Unveiling the Impact of Musical Factors in Judging a Song on First Listen: Insights from a User Survey** accepted at [the 24th conference of the International Society for Music Information Retrieval (ISMIR 2023)](https://ismir2023.ismir.net/).
 
-The survey questionnaire is described in [questionnaire.pdf](/questionnaire.pdf).
+The survey questionnaire is described in [questionnaire_EN.pdf](/questionnaire_EN.pdf).
 
 The dataset of the survey results consists of 5 tab-separated value (TSV) files.
 It includes the participants' responses other than the free responses.
